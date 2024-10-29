@@ -6,7 +6,7 @@ from ultralytics import YOLO
 import os
 
 # Loading the saved model
-model = YOLO("runs/detect/train3/weights/last.pt")
+model = YOLO("weights/last.pt")
 
 # # Streamlit app layout
 st.set_page_config(layout="wide")
