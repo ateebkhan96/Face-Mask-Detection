@@ -15,6 +15,12 @@ Link: [Face-Mask-Detection](https://face-mask-det.streamlit.app/)
 * *Run on Local Machine* : Try detection on live webcam
 * *Model Training Notebook* : Customize or retrain the model using the included Jupyter notebook.
 
+# 📸 Sample Output
+| Output Image                                                     | Uploaded Image                                                      | 
+|------------------------------------------------------------------|---------------------------------------------------------------------|
+| <img src="Output Sample/with_mask.jpg" width="450" height="335"> | <img src="Output Sample/without_mask.jpg" width="450" height="335"> |
+
+
 # 📂 Dataset
 The model was trained using a face mask dataset sourced from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) uploaded by [Andrew Maranhão](https://www.kaggle.com/andrewmvd), which contains images with and without face masks to enable accurate mask detection.
 # 🛠️ Installation On Local Machine
