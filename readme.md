@@ -18,7 +18,7 @@ Link: [Face-Mask-Detection](https://face-mask-det.streamlit.app/)
 # 📸 Sample Output
 | Output Image                                                     | Uploaded Image                                                      | 
 |------------------------------------------------------------------|---------------------------------------------------------------------|
-| <img src="Output Sample/with_mask.jpg" width="450" height="335"> | <img src="Output Sample/without_mask.jpg" width="450" height="335"> |
+| <img src="Output Sample/with_mask.jpg" width="300" height="400"> | <img src="Output Sample/without_mask.jpg" width="300" height="400"> |
 
 
 # 📂 Dataset
